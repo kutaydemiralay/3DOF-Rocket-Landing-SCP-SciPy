@@ -1,14 +1,9 @@
-# Sequential-Convex-Programming-for-a-3DOF-Rocket-Landing-Problem
-Sequential Convex Programming for a 3DOF Rocket Landing Problem
+# Sequential Convex Programming for a 3DOF Rocket Landing Problem
 
-
-# My Project
-
-This is the README for my project.
+This repository contains code and documentation for the sequential convex programming approach to a 3DOF rocket landing problem.
 
 ## Documentation
 
 You can find the detailed documentation in the PDF below:
 
-[Download the PDF](./Successive Convex Optimization.pdf)
-
+[Successive Convex Optimization](./Successive%20Convex%20Optimization.pdf)
