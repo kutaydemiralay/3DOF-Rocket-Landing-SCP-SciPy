@@ -10,7 +10,7 @@ In this project, we address the problem of landing a rocket with three degrees o
 
 You can find the detailed documentation in the PDF below:
 
-[Project Poster](./Project.pdf)
+[Project Poster](./Poster.pdf)
 
 ## Code Structure
 
