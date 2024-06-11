@@ -19,41 +19,30 @@ You can find the detailed documentation in the PDF below:
 - `README.md`: This file.
 - `Successive Convex Optimization.pdf`: Detailed documentation of the methods and results.
 
-## Dependencies
-
-- Python 3.x
-- NumPy
-- SciPy
-- CVXPY
-- SymPy
-- Matplotlib
-
-## Usage
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/3DOF-Rocket-Landing-SCP-vs-Nonlinear-Optimization.git
-    cd 3DOF-Rocket-Landing-SCP-vs-Nonlinear-Optimization
-    ```
-
-2. Install the dependencies:
-    ```bash
-    pip install numpy scipy cvxpy sympy matplotlib
-    ```
-
-3. Run the SCP script:
-    ```bash
-    python rocket_landing_scp.py
-    ```
-
-4. Run the general nonlinear solver script:
-    ```bash
-    python rocket_landing_nonlinear.py
-    ```
 
 ## Results
 
 The optimization results, including plots of the rocket's trajectory, thrust profile, gimbal angles, and speed, will be generated and displayed for both approaches.
+
+## Results
+
+The optimization results, including plots of the rocket's trajectory, thrust profile, gimbal angles, and speed, are shown below:
+
+### Trajectory Plot
+
+![Trajectory Plot](./images/SCP1.png)
+
+### Thrust Profile
+
+![Thrust Profile](./images/SCP2.png)
+
+### Gimbal Angles
+
+![Gimbal Angles](./images/SCP3.png)
+
+### Speed
+
+![Speed](./images/SCP4.png)
 
 ## Contributing
 
