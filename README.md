@@ -14,8 +14,8 @@ You can find the detailed documentation in the PDF below:
 
 ## Code Structure
 
-- `rocket_landing_scp.jpynb`: Script for implementing SCP for the 3DOF rocket landing problem.
-- `rocket_landing_nonlinear.py`: Script for implementing a general nonlinear solver for comparison.
+- `rocket_landing_scp.ipynb`: Script for implementing SCP for the 3DOF rocket landing problem.
+- `rocket_landing_nonlinear.ipynb`: Script for implementing a general nonlinear solver for comparison.
 - `README.md`: This file.
 - `Successive Convex Optimization.pdf`: Detailed documentation of the methods and results.
 
