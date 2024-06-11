@@ -22,27 +22,40 @@ You can find the detailed documentation in the PDF below:
 
 ## Results
 
-The optimization results, including plots of the rocket's trajectory, thrust profile, gimbal angles, and speed, will be generated and displayed for both approaches.
+The optimization results, including plots of the rocket's trajectory, thrust vs.time  gimbal angles vs. time, and speed vs. time, will be generated and displayed for both approaches.
 
-## Results
 
-The optimization results, including plots of the rocket's trajectory, thrust profile, gimbal angles, and speed, are shown below:
-
-### Trajectory Plot
+### Trajectory Plot from Cequential Convex Programming Algorithm
 
 ![Trajectory Plot](./images/SCP1.png)
 
-### Thrust Profile
+### Thrust vs Time Plot from Cequential Convex Programming Algorithm
 
 ![Thrust Profile](./images/SCP2.png)
 
-### Gimbal Angles
+### Gimbal Angle vs.Time Plot from Cequential Convex Programming Algorithm
 
 ![Gimbal Angles](./images/SCP3.png)
 
-### Speed
+### Speed vs. Time Plot from Cequential Convex Programming Algorithm
 
 ![Speed](./images/SCP4.png)
+
+### Trajectory Plot from Cequential Convex Programming Algorithm
+
+![Trajectory Plot](./images/NGA1.png)
+
+### Thrust vs Time Plot from Cequential Convex Programming Algorithm
+
+![Thrust Profile](./images/NGA2.png)
+
+### Gimbal Angle vs.Time Plot from Cequential Convex Programming Algorithm
+
+![Gimbal Angles](./images/NGA3.png)
+
+### Speed vs. Time Plot from Cequential Convex Programming Algorithm
+
+![Speed](./images/NGA4.png)
 
 ## Contributing
 
