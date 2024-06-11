@@ -1,10 +1,10 @@
 # Fixed Time 3DOF Rocket Landing with Sequential Convex Programming and SciPy Optimization
 
-This repository contains code and documentation for solving a fixed final time 3DOF rocket landing problem, comparing Sequential Convex Programming (SCP) with general nonlinear optimization using SciPy.
+This repository contains code and documentation for solving a fixed final time 3DOF rocket landing problem, comparing two different solving methods, Sequential Convex Programming (SCP) and general nonlinear solver available in free and open-source Python libraries, SciPy.
 
 ## Overview
 
-In this project, we address the problem of landing a rocket with three degrees of freedom (3DOF) by employing Sequential Convex Programming (SCP) and compare it with a general nonlinear solver. We leverage SciPy's optimization capabilities to find the optimal control inputs that ensure a safe landing.
+In this project, we address the problem of landing a rocket with three degrees of freedom (3DOF) and fixed final time by employing Sequential Convex Programming (SCP) and comparing the results and performance with those obtained from a general nonlinear solver available in free and open-source Python libraries
 
 ## Documentation
 
