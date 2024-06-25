@@ -12,9 +12,18 @@ You can find the detailed documentation in the PDF below:
 
 [Project Poster](./Poster.pdf)
 
-You can find the relevant codes :
 
+
+You can find codes for Sequential Convex Programming problem solver :
+
+[Project Codes](./rocket_landing_scp.ipynb.ipynb)
+
+
+
+You can find codes for the general nonlinear problem solver:
 [Project Codes](./rocket_landing_nonlinear.ipynb)
+
+
 
 ## Code Structure
 
