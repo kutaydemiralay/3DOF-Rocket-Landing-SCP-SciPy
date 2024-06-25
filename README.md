@@ -16,7 +16,7 @@ You can find the detailed documentation in the PDF below:
 
 You can find codes for Sequential Convex Programming problem solver :
 
-[rocket_landing_scp.ipynb.ipynb](./rocket_landing_scp.ipynb)
+[rocket_landing_scp.ipynb](./rocket_landing_scp.ipynb)
 
 
 
