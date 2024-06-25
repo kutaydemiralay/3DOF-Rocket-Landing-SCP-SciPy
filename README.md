@@ -12,6 +12,10 @@ You can find the detailed documentation in the PDF below:
 
 [Project Poster](./Poster.pdf)
 
+You can find the relevant codes :
+
+[Project Codes](./rocket_landing_nonlinear.ipynb)
+
 ## Code Structure
 
 - `rocket_landing_scp.ipynb`: Script for implementing SCP for the 3DOF rocket landing problem.
