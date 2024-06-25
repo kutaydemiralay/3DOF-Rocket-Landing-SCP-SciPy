@@ -36,7 +36,11 @@ You can find codes for the general nonlinear problem solver:
 
 ## Results
 
+Even though developing and tuning SCP code is challenging and time-consuming, it's worth it. SCP offers better performance for this specific problems compared to general open-source codes designed for a variety of problems.
+
+
 The optimization results, including plots of the rocket's trajectory, thrust vs.time  gimbal angles vs. time, and speed vs. time, will be generated and displayed for both approaches.
+
 
 
 ### Trajectory Plot from Cequential Convex Programming Algorithm
